@@ -1,1 +1,1 @@
-# CPU-Scheduling-Algorithm-Simulator-in-CPP-C-language
+# CPU-Scheduling-Algorithm-Simulator-in-CPP and C-language
