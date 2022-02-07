@@ -212,7 +212,7 @@ public:
 
   
 
-//FCFS algorithm
+//First Come First Serve algorithm
 
 void FCFS_algo(process ps[],int i)
 
@@ -330,7 +330,7 @@ void FCFS_algo(process ps[],int i)
 
 }
 
-//round robin algorithm
+//shortest remaining first time algorithm
 
 void SRTF_algo(process ps[],int i){
 
